@@ -31,3 +31,6 @@ footer.site-footer{display:block;padding:56px 6% 44px;background:#fff;border-top
  .site-footer img{height:46px}
  .sf-tag{font-size:15px}
 }
+.section { opacity: 1 !important; transform: none !important; }
+.stagger > * { opacity: 1 !important; transform: none !important; }
+.hero-slides .hero-photo:first-child { opacity: 1 !important; }
